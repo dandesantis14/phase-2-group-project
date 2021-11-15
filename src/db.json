@@ -1,0 +1,188 @@
+{
+    "sounds": [
+        {
+            "id": 0,
+            "type": "kick",
+            "tones": [
+                {
+                    "id": 0,
+                    "name": "kick-1",
+                    "file": "filePath"
+                },
+                {
+                    "id": 1,
+                    "name": "kick-2",
+                    "file": "filePath"
+                },
+                {
+                    "id": 2,
+                    "name": "kick-3",
+                    "file": "filePath"
+                },
+                {
+                    "id": 3,
+                    "name": "kick-4",
+                    "file": "filePath"
+                },
+                {
+                    "id": 4,
+                    "name": "kick-5",
+                    "file": "filePath"
+                },
+                {
+                    "id": 5,
+                    "name": "kick-6",
+                    "file": "filePath"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "type": "snare",
+            "tones": [
+                {
+                    "id": 0,
+                    "name": "snare-1",
+                    "file": "filePath"
+                },
+                {
+                    "id": 1,
+                    "name": "snare-2",
+                    "file": "filePath"
+                },
+                {
+                    "id": 2,
+                    "name": "snare-3",
+                    "file": "filePath"
+                },
+                {
+                    "id": 3,
+                    "name": "snare-4",
+                    "file": "filePath"
+                },
+                {
+                    "id": 4,
+                    "name": "snare-5",
+                    "file": "filePath"
+                },
+                {
+                    "id": 5,
+                    "name": "snare-6",
+                    "file": "filePath"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "type": "closed-high-hat",
+            "tones": [
+                {
+                    "id": 0,
+                    "name": "closed-high-hat-1",
+                    "file": "filePath"
+                },
+                {
+                    "id": 1,
+                    "name": "closed-high-hat-2",
+                    "file": "filePath"
+                },
+                {
+                    "id": 2,
+                    "name": "closed-high-hat-3",
+                    "file": "filePath"
+                },
+                {
+                    "id": 3,
+                    "name": "closed-high-hat-4",
+                    "file": "filePath"
+                },
+                {
+                    "id": 4,
+                    "name": "closed-high-hat-5",
+                    "file": "filePath"
+                },
+                {
+                    "id": 5,
+                    "name": "closed-high-hat-6",
+                    "file": "filePath"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "type": "open-high-hat",
+            "tones": [
+                {
+                    "id": 0,
+                    "name": "open-high-hat-1",
+                    "file": "filePath"
+                },
+                {
+                    "id": 1,
+                    "name": "open-high-hat-2",
+                    "file": "filePath"
+                },
+                {
+                    "id": 2,
+                    "name": "open-high-hat-3",
+                    "file": "filePath"
+                },
+                {
+                    "id": 3,
+                    "name": "open-high-hat-4",
+                    "file": "filePath"
+                },
+                {
+                    "id": 4,
+                    "name": "open-high-hat-5",
+                    "file": "filePath"
+                },
+                {
+                    "id": 5,
+                    "name": "open-high-hat-6",
+                    "file": "filePath"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "type": "crash",
+            "tones": [
+                {
+                    "id": 0,
+                    "name": "crash-1",
+                    "file": "filePath"
+                },
+                {
+                    "id": 1,
+                    "name": "crash-2",
+                    "file": "filePath"
+                },
+                {
+                    "id": 2,
+                    "name": "crash-3",
+                    "file": "filePath"
+                },
+                {
+                    "id": 3,
+                    "name": "crash-4",
+                    "file": "filePath"
+                },
+                {
+                    "id": 4,
+                    "name": "crash-5",
+                    "file": "filePath"
+                },
+                {
+                    "id": 5,
+                    "name": "crash-6",
+                    "file": "filePath"
+                }
+            ]
+        }
+    ],
+    "developers": [
+        {
+        }
+    ]
+}
