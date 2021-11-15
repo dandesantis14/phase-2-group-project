@@ -36,7 +36,6 @@ Daniel DeSantis
 #### SoundGroup houses:
 Ability to set up to 16(may change +/-) consectutive beats, *for each available sound from that group* (e.g. DrumGroup = [snare,kick,tom,floorTom]). Set beats will be represented by grid of lit tiles.
 
-[]:#(
 ### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
@@ -44,4 +43,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-)
+
