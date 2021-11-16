@@ -6,7 +6,7 @@ function MusicBuilder() {
     return (
         <div>
             <Controls />
-
+            <SoundGroup />
         </div>
     )
 }

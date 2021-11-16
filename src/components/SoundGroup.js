@@ -3,16 +3,22 @@ import Sound from './Sound'
 
 
 function SoundGroup() {
-    const [activeSounds,setActiveSounds] = useState([])
-    
+    const [activeSounds, setActiveSounds] = useState([])
+
     const noteComponents = () => {
         const notesDisplay = []
-        for (let i=0; i<16; i++){
-            notesDisplay.push(<Sound key={i} activeSounds={activeSounds} setActiveSounds={setActiveSounds} noteIndex={i+1}/>)
+        for (let i = 0; i < 16; i++) {
+            notesDisplay.push(
+                <Sound
+                    key={i}
+                    activeSounds={activeSounds}
+                    setActiveSounds={setActiveSounds}
+                    noteIndex={i + 1}
+                />
+            )
         }
         return notesDisplay;
     }
-
 
 
     return (
@@ -23,3 +29,5 @@ function SoundGroup() {
 }
 
 export default SoundGroup
+
+
