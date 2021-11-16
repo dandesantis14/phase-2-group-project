@@ -1,0 +1,217 @@
+{
+    "sounds": [
+        {
+            "id": 0,
+            "type": "kick",
+            "tones": [
+                {
+                    "id": 0,
+                    "name": "kick-1",
+                    "file": "../sounds/kicks/kick1.wav"
+                },
+                {
+                    "id": 1,
+                    "name": "kick-2",
+                    "file": "../sounds/kicks/kick2.wav"
+                },
+                {
+                    "id": 2,
+                    "name": "kick-3",
+                    "file": "../sounds/kicks/kick3.wav"
+                },
+                {
+                    "id": 3,
+                    "name": "kick-4",
+                    "file": "../sounds/kicks/kick4.wav"
+                },
+                {
+                    "id": 4,
+                    "name": "kick-5",
+                    "file": "../sounds/kicks/kick5.wav"
+                },
+                {
+                    "id": 5,
+                    "name": "kick-6",
+                    "file": "../sounds/kicks/kick6.wav"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "type": "snare",
+            "tones": [
+                {
+                    "id": 0,
+                    "name": "snare-1",
+                    "file": "../sounds/snares/snare1.wav"
+                },
+                {
+                    "id": 1,
+                    "name": "snare-2",
+                    "file": "../sounds/snares/snare1.wav"
+                },
+                {
+                    "id": 2,
+                    "name": "snare-3",
+                    "file": "../sounds/snares/snare1.wav"
+                },
+                {
+                    "id": 3,
+                    "name": "snare-4",
+                    "file": "../sounds/snares/snare1.wav"
+                },
+                {
+                    "id": 4,
+                    "name": "snare-5",
+                    "file": "../sounds/snares/snare1.wav"
+                },
+                {
+                    "id": 5,
+                    "name": "snare-6",
+                    "file": "../sounds/snares/snare1.wav"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "type": "closed-high-hat",
+            "tones": [
+                {
+                    "id": 0,
+                    "name": "closed-high-hat-1",
+                    "file": "../sounds/hh_closed/hh_closed1.wav"
+                },
+                {
+                    "id": 1,
+                    "name": "closed-high-hat-2",
+                    "file": "../sounds/hh_closed/hh_closed2.wav"
+                },
+                {
+                    "id": 2,
+                    "name": "closed-high-hat-3",
+                    "file": "../sounds/hh_closed/hh_closed3.wav"
+                },
+                {
+                    "id": 3,
+                    "name": "closed-high-hat-4",
+                    "file": "../sounds/hh_closed/hh_closed4.wav"
+                },
+                {
+                    "id": 4,
+                    "name": "closed-high-hat-5",
+                    "file": "../sounds/hh_closed/hh_closed5.wav"
+                },
+                {
+                    "id": 5,
+                    "name": "closed-high-hat-6",
+                    "file": "../sounds/hh_closed/hh_closed6.wav"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "type": "open-high-hat",
+            "tones": [
+                {
+                    "id": 0,
+                    "name": "open-high-hat-1",
+                    "file": "../sounds/hh_open/hh_open1.wav"
+                },
+                {
+                    "id": 1,
+                    "name": "open-high-hat-2",
+                    "file": "../sounds/hh_open/hh_open1.wav"
+                },
+                {
+                    "id": 2,
+                    "name": "open-high-hat-3",
+                    "file": "../sounds/hh_open/hh_open1.wav"
+                },
+                {
+                    "id": 3,
+                    "name": "open-high-hat-4",
+                    "file": "../sounds/hh_open/hh_open1.wav"
+                },
+                {
+                    "id": 4,
+                    "name": "open-high-hat-5",
+                    "file": "../sounds/hh_open/hh_open1.wav"
+                },
+                {
+                    "id": 5,
+                    "name": "open-high-hat-6",
+                    "file": "../sounds/hh_open/hh_open1.wav"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "type": "crash",
+            "tones": [
+                {
+                    "id": 0,
+                    "name": "crash-1",
+                    "file": "../sounds/cymbal/cymbal1"
+                },
+                {
+                    "id": 1,
+                    "name": "crash-2",
+                    "file": "../sounds/cymbal/cymbal2"
+                },
+                {
+                    "id": 2,
+                    "name": "crash-3",
+                    "file": "../sounds/cymbal/cymbal3"
+                },
+                {
+                    "id": 3,
+                    "name": "crash-4",
+                    "file": "../sounds/cymbal/cymbal4"
+                },
+                {
+                    "id": 4,
+                    "name": "crash-5",
+                    "file": "../sounds/cymbal/cymbal5"
+                },
+                {
+                    "id": 5,
+                    "name": "crash-6",
+                    "file": "../sounds/cymbal/cymbal6"
+                }
+            ]
+        }
+    ],
+    "saved-beats": [
+        {
+            "id":0,
+            "title":"ExampleSavedTrack",
+            "tracks":[
+                {
+                    "id": 0,
+                    "name": "kick-1",
+                    "onNotes": [3,5,11,13]
+                },
+                {
+                    "id": 1,
+                    "name": "snare-3",
+                    "onNotes": [6,14]
+                },
+                {
+                    "id": 2,
+                    "name": "closed-high-hat-3",
+                    "onNotes": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15]
+                },
+                {
+                    "id": 3,
+                    "name": "crash-6",
+                    "onNotes": [16]
+                }
+            ]
+        }
+    ],
+    "developers": [
+        "Holly Teunis",
+        "Webster Bian",
+        "Daniel DeSantis"
+    ]
+}
