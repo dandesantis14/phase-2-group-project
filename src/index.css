@@ -5,6 +5,12 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url('https://www.themeparktribune.com/wp-content/uploads/2016/03/nightclub.jpg') ;
+  background-color: black;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 2000px;
+
 }
 
 code {

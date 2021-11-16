@@ -1,0 +1,10 @@
+.music-container {
+  border: 1px solid rgb(12, 201, 214);
+  max-width: 700px;
+  height: 60vh; /* Magic here */
+  display: flex center;
+  margin : auto; 
+  background-color: rgb(99, 99, 99, .8);
+  
+  }
+
